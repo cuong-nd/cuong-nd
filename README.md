@@ -18,7 +18,39 @@
 
 - 💬 Ask me about **DevOps, AWS**
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Interested ⚡ </h3>
+
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![K8s](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black??style=flat-square&logo=elasticsearch)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black??style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+![MacOS](https://img.shields.io/badge/macOS-black??style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Centos](https://img.shields.io/badge/CentOS-black?style=flat-square&logo=linux)
+
+![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+[![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+
+![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-black?style=flat-square&logo=prometheus)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-black??style=flat-square&logo=elasticsearch)
+![Logstash](https://img.shields.io/badge/Logstash-black??style=flat-square&logo=logstash)
+![Kibana](https://img.shields.io/badge/Kibana-black??style=flat-square&logo=kibana)
+
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <p align=center>
   <div align=center>
