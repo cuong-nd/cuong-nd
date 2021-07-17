@@ -17,9 +17,14 @@
 - 👨‍💻 All of my projects are available at [https://github.com/cuongnd-scs](https://github.com/cuongnd-scs)
 
 - 💬 Ask me about **DevOps, AWS**
+##
+
+<!--Status-->
+<a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/cuongnd-scs?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
+<a href="#"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cuongnd-scs&bg_color=00000000&title_color=fff&text_color=fff&hide_border=true&show_icons=true" /></a>
+<a href="#"><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongnd-scs&bg_color=00000000&title_color=fff&text_color=fff&hide_border=true&layout=compact"></a>
 
 <h3 align="center">⚡ Interested ⚡ </h3>
-
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -44,6 +49,9 @@
 ![Logstash](https://img.shields.io/badge/Logstash-black??style=flat-square&logo=logstash)
 ![Kibana](https://img.shields.io/badge/Kibana-black??style=flat-square&logo=kibana)
 
+##
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <p align=center>
@@ -55,10 +63,14 @@
       <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=cuongnd-scs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
   <br>
 </p>
+
+#
+
+
 
 
 # My Badge 
