@@ -10,13 +10,12 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working on **some of my side projects :P**
-
-- 👯 I’m looking to collaborate on **anything free and open source**
-
+* 🔭 I’m currently working on **some of my side projects :P**
+* 👯 I’m looking to collaborate on **anything free and open source**
 - 👨‍💻 All of my projects are available at [https://github.com/cuongnd-scs](https://github.com/cuongnd-scs)
-
 - 💬 Ask me about **DevOps, AWS**
+
+
 ##
 
 <!--Status-->
@@ -49,8 +48,8 @@
 ![Kibana](https://img.shields.io/badge/Kibana-black??style=flat-square&logo=kibana)
 
 #
-<br><br>
-<h3 align="center">⚡ Stats ⚡</h3>
+<br><br><br><br><br><br>
+<h3 align="left">⚡ Stats ⚡</h3>
 <br>
 <p align=center>
   <div align=center>
@@ -71,7 +70,7 @@
 
 
 
-# My Badge 
+<h3 align="left">⚡ My badge ⚡ </h3>
 
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/aa491e3b-e2e1-4feb-a3b8-67bb4ef1014d "AWS Certified Solutions Architect – Associate")
 [![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png)](https://www.credly.com/badges/3e74e097-1bcd-4c8c-85f9-51873a451b12 "HashiCorp Certified: Terraform Associate")
