@@ -2,7 +2,7 @@
 [![Website Badge](https://img.shields.io/badge/-cuongdev.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://docs.cuong-dev.ml/)](https://docs.cuong-dev.ml/)
 [![Twitter Badge](https://img.shields.io/badge/-cuongaws-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cuongaws)](https://twitter.com/cuongaws)
 [![Gmail Badge](https://img.shields.io/badge/-ndc.uit-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ndc.uit@gmail.com)](mailto:ndc.uit@gmail.com)
-[![Profile viewer Badge](https://komarev.com/ghpvc/?username=cuongnd-scs)](https://komarev.com/ghpvc/?username=cuongnd-scs)
+[![Profile viewer Badge](https://komarev.com/ghpvc/?username=cuong-nd)](https://komarev.com/ghpvc/?username=cuong-nd)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -12,14 +12,14 @@
 
 * 🔭 I’m currently working on **some of my side projects :P**
 * 👯 I’m looking to collaborate on **anything free and open source**
-- 👨‍💻 All of my projects are available at [https://github.com/cuongnd-scs](https://github.com/cuongnd-scs)
+- 👨‍💻 All of my projects are available at [https://github.com/cuong-nd](https://github.com/cuong-nd)
 - 💬 Ask me about **DevOps, AWS**
 
 
 ##
 
 <!--Status-->
-<a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/cuongnd-scs?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
+<a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/cuong-nd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
 
 
 <h3 align="center">⚡ Interested ⚡ </h3>
@@ -54,10 +54,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=cuongnd-scs&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=cuong-nd&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=cuongnd-scs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=cuong-nd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br>
