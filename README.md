@@ -19,9 +19,9 @@
 
 ##
 
-<!--Status-->
+<!--Status
 <a href="#"><img align="left" width="50%" src="https://metrics.lecoq.io/cuong-nd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FShanghai" /></a>
-
+-->
 
 <h3 align="center">⚡ Interested ⚡ </h3>
 
@@ -49,8 +49,8 @@
 ![Kibana](https://img.shields.io/badge/Kibana-black??style=flat-square&logo=kibana)
 
 #
-<br><br><br><br><br><br>
-<h3 align="left">⚡ Stats ⚡</h3>
+<br>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <p align=center>
   <div align=center>
