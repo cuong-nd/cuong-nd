@@ -1,4 +1,3 @@
-[![Metrics](https://github.com/cuong-nd/cuong-nd/actions/workflows/blank.yml/badge.svg)](https://github.com/cuong-nd/cuong-nd/actions/workflows/blank.yml)
 [![Linkedin Badge](https://img.shields.io/badge/-ndcuong-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndcuong/)](https://www.linkedin.com/in/ndcuong/)
 [![Website Badge](https://img.shields.io/badge/-cuongdev.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://docs.cuong-dev.ml/)](https://docs.cuong-dev.ml/)
 [![Twitter Badge](https://img.shields.io/badge/-cuongaws-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cuongaws)](https://twitter.com/cuongaws)
